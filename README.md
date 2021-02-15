@@ -1,16 +1,5 @@
 # task1
 
-A new Flutter project.
+# Implemented Image Picker and passed the file as a params with dimensions
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Implemented Image Cropper with the imagefile as a parameter and source with the filepath alongwith dimenstions to instantiate a Image Crop Activity which is defined in the AndroidMainifest.xml
